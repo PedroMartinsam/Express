@@ -18,6 +18,7 @@ PostgreSQL (ambiente de desenvolvimento)
 Padrões de Projeto: Strategy e State
 
 🏗️ Padrões de Projeto Implementados 
+
 🔹 Strategy Responsável pelo cálculo de frete, permitindo a expansão de novas regras de negócio sem impacto no código existente. 
 Implementações atuais:
 FreteAviao 
