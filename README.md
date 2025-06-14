@@ -17,7 +17,7 @@ Banco de Dados H2 (ambiente de testes)
 PostgreSQL (ambiente de desenvolvimento)
 Padrões de Projeto: Strategy e State
 
-🏗️ Padrões de Projeto Implementados 
+🧠Padrões de Projeto Implementados 
 
 🔹 Strategy Responsável pelo cálculo de frete, permitindo a expansão de novas regras de negócio sem impacto no código existente. 
 Implementações atuais:
@@ -33,7 +33,7 @@ CanceladoState
 
 Cada estado define quais operações são permitidas, impedindo transições inválidas e mantendo a integridade do ciclo de vida do pedido.
 
-🧪 Testes via Postman Realize requisições utilizando os métodos:
+💡 Testes via Postman Realize requisições utilizando os métodos:
 POST,
 PUT,
 GET, 
